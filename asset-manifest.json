@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teamhutiya/demo/static/css/main.dcd5a660.css",
+    "main.js": "/teamhutiya/demo/static/js/main.3a7a4e6c.js",
+    "static/js/787.957d837c.chunk.js": "/teamhutiya/demo/static/js/787.957d837c.chunk.js",
+    "static/media/logo.svg": "/teamhutiya/demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teamhutiya/demo/index.html",
+    "main.dcd5a660.css.map": "/teamhutiya/demo/static/css/main.dcd5a660.css.map",
+    "main.3a7a4e6c.js.map": "/teamhutiya/demo/static/js/main.3a7a4e6c.js.map",
+    "787.957d837c.chunk.js.map": "/teamhutiya/demo/static/js/787.957d837c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd5a660.css",
+    "static/js/main.3a7a4e6c.js"
+  ]
+}
